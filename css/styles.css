@@ -1,0 +1,62 @@
+* {
+	box-sizing: border-box;
+}
+
+a {
+	text-decoration: none;
+}
+body {
+	background-color: #0d1117;
+	color: #c9d1d9;
+	font-family: "Ubuntu", sans-serif;
+	font-weight: 100;
+	margin: 0 auto;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	width: 50vw;
+	height: 100vh;
+	flex-flow: column;
+}
+
+h1 {
+	font-weight: inherit;
+}
+
+/* CLASSES */
+
+.intro {
+	margin-bottom: 20px;
+}
+
+.feature-icon {
+	padding: 0 15px;
+	font-size: 1.75rem;
+	transition: all 0.3s ease-out;
+}
+
+.fa-linkedin-in {
+	color: #0a66c2;
+}
+
+.fa-github {
+	color: #afb5bb;
+}
+
+.fa-linkedin-in:hover {
+	color: #3d87d1;
+}
+
+.fa-github:hover {
+	color: #52565a;
+}
+
+.about {
+	margin: 20px;
+}
+/* IDS */
+
+#profile-picture {
+	width: 200px;
+}
