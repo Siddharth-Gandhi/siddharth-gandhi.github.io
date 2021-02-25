@@ -25,6 +25,13 @@ h2 {
 	margin: 20px;
 }
 
+hr.style-six {
+	border: 0;
+	height: 0;
+	border-top: 1px solid rgba(0, 0, 0, 0.1);
+	border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+}
+
 p {
 	margin: 20px;
 }
@@ -36,7 +43,7 @@ p {
 	left: 0;
 	right: 0;
 	margin: 0 auto;
-	top: 10%;
+	top: 7%;
 	width: 50%;
 	line-height: 1.3rem;
 }
@@ -84,6 +91,10 @@ p {
 }
 
 .about {
+	margin: 20px;
+}
+
+.version {
 	margin: 20px;
 }
 

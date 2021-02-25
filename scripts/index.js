@@ -5,3 +5,4 @@ const age =
 		? currentYear - birthYear
 		: currentYear - birthYear - 1;
 document.getElementById("age").innerText = `${age}`;
+__dirname;
