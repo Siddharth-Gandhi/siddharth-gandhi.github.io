@@ -58,6 +58,7 @@ p {
   .main-container {
     width: 100%;
     top: 5%;
+    padding-bottom: 35px;
   }
   h1 {
     line-height: 1;
