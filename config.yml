@@ -1,0 +1,9 @@
+baseURL: https://www.ssgandhi.com/
+languageCode: en-us
+title: Siddharth Gandhi
+theme: PaperMod
+
+params:
+  defaultTheme: light
+  # defaultTheme: dark
+  # defaultTheme: auto # to switch between dark or light according to browser theme
