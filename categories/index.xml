@@ -4,6 +4,11 @@
     <title>Categories on Siddharth Gandhi</title>
     <link>https://www.ssgandhi.com/categories/</link>
     <description>Recent content in Categories on Siddharth Gandhi</description>
+    <image>
+      <title>Siddharth Gandhi</title>
+      <url>https://www.ssgandhi.com/siddharth_profile.png</url>
+      <link>https://www.ssgandhi.com/siddharth_profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="https://www.ssgandhi.com/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>

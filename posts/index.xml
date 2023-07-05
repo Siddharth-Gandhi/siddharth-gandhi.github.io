@@ -4,6 +4,11 @@
     <title>Posts on Siddharth Gandhi</title>
     <link>https://www.ssgandhi.com/posts/</link>
     <description>Recent content in Posts on Siddharth Gandhi</description>
+    <image>
+      <title>Siddharth Gandhi</title>
+      <url>https://www.ssgandhi.com/siddharth_profile.png</url>
+      <link>https://www.ssgandhi.com/siddharth_profile.png</link>
+    </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 04 Jul 2023 23:51:39 +0530</lastBuildDate><atom:link href="https://www.ssgandhi.com/posts/index.xml" rel="self" type="application/rss+xml" />
