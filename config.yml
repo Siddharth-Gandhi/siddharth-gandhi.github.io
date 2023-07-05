@@ -47,7 +47,7 @@ params:
   keywords: [Blog, Portfolio, Siddharth, Gandhi, Machine Learning, Deep Learning, Natural Language Processing]
   author: Siddharth Gandhi
   DateFormat: "January 2, 2006"
-  # images: []
+  images: ["siddharth_profile.png"]
   showToc: true
   TocOpen: true
   ShowBreadCrumbs: true
@@ -67,17 +67,20 @@ params:
   VisitCount: true
   ShowWordCounts: true
   ShowLastMod: true
+  UseHugoToc: true
+  math: true
 
   # for enchanced SEO
   env: production
 
   assets:
-    favicon: "/favicon.ico"
-    favicon16x16: "/favicon.ico"
-    favicon32x32: "/favicon.ico"
-    apple_touch_icon: "/favicon.ico"
-    safari_pinned_tab: "/favicon.ico"
+    favicon: "favicon-16x16.png"
+    favicon16x16: "favicon-16x16.png"
+    favicon32x32: "favicon-32x32.png"
+    apple_touch_icon: "apple-touch-icon.png"
+    safari_pinned_tab: "apple-touch-icon.png"
     disableHLJS: true
+    disableScrollBarStyle: true
 
   # label:
       # text: "Siddharth Gandhi"
