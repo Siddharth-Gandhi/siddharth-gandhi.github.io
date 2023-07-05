@@ -1,8 +1,8 @@
-.list{
+.light, .list{
     background-color: #ECE8E1;
 }
 
-.list.dark{
+.dark, .list.dark{
     background-color: #0F1923;
 }
 
