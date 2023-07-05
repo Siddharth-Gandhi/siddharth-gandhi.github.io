@@ -2,6 +2,10 @@
 baseURL: "https://www.ssgandhi.com/"
 languageCode: en-us
 title: Siddharth Gandhi
+name: "Siddharth Gandhi's Personal Website"
+description: Siddharth Gandhi's Personal Website.
+profile_url: "https://ssgandhi.com"
+author: Lilian Weng
 theme: PaperMod
 
 # for rendering HTML in markdown properly in the profile mode's subtitle
@@ -9,6 +13,7 @@ markup:
   goldmark:
     renderer:
       unsafe: true
+
   highlight:
     # anchorLineNos: true
     codeFences: true
@@ -66,7 +71,7 @@ params:
     - name: "email"
       url: "mailto:ssgandhi602@gmail.com"
     - name: "linkedin"
-      url: "https://www.linkedin.com/in/ssgandhi1/"
+      url: "https://linkedin.com/in/ssgandhi1/"
     - name: "github"
       url: "https://github.com/siddharth-Gandhi/"
     - name: "cv"
