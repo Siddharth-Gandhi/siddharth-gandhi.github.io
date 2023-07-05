@@ -2,10 +2,10 @@
 baseURL: "https://www.ssgandhi.com/"
 languageCode: en-us
 title: Siddharth Gandhi
-name: "Siddharth Gandhi's Personal Website"
-description: Siddharth Gandhi's Personal Website.
-profile_url: "https://ssgandhi.com"
-author: Siddharth Gandhi
+# name: "Siddharth Gandhi's Personal Website"
+# description: Siddharth Gandhi's Personal Website.
+# profile_url: "https://ssgandhi.com"
+# author: Siddharth Gandhi
 theme: PaperMod
 
 # for rendering HTML in markdown properly in the profile mode's subtitle
@@ -28,13 +28,26 @@ markup:
     style: nord
     tabWidth: 2
 
+enableInlineShortcodes: true
+enableEmoji: true
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
-params:
+googleAnalytics: UA-123-45
 
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  title: Siddharth Gandhi
+  description: Siddharth Gandhi's Personal Website.
+  keywords: [Blog, Portfolio, Siddharth, Gandhi, Machine Learning, Deep Learning, Natural Language Processing]
+  author: Siddharth Gandhi
+  DateFormat: "January 2, 2006"
+  # images: []
   showToc: true
   TocOpen: true
   ShowBreadCrumbs: true
@@ -48,15 +61,29 @@ params:
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
   disableScrollToTop: false
+  displayFullLangName: true
   comments: false
   hideSummary: false
+  VisitCount: true
+  ShowWordCounts: true
+  ShowLastMod: true
 
   # for enchanced SEO
   env: production
 
   assets:
     favicon: "/favicon.ico"
+    favicon16x16: "/favicon.ico"
+    favicon32x32: "/favicon.ico"
+    apple_touch_icon: "/favicon.ico"
+    safari_pinned_tab: "/favicon.ico"
     disableHLJS: true
+
+  # label:
+      # text: "Siddharth Gandhi"
+      #icon: "img/Q.gif"
+      # icon: "https://www.ssgandhi.com/siddharth_profile.png"
+      # iconHeight: 35
 
   profileMode:
     enabled: true
