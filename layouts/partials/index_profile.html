@@ -33,7 +33,7 @@
         {{- end }}
         {{- end }}
         <h1>{{ .title | default site.Title | markdownify }}</h1>
-        <div class="post-content" style="text-align: justify; text-align-last: center;">{{ .subtitle | markdownify }}</div>
+        <div class="post-content" style="text-align: center; text-align-last: center;">{{ .subtitle | markdownify }}</div>
         {{- partial "social_icons.html" site.Params.socialIcons -}}
 
         {{- with .buttons }}

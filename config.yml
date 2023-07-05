@@ -4,10 +4,24 @@ languageCode: en-us
 title: Siddharth Gandhi
 theme: PaperMod
 
+# for rendering HTML in markdown properly in the profile mode's subtitle
 markup:
   goldmark:
     renderer:
       unsafe: true
+  highlight:
+    # anchorLineNos: true
+    codeFences: true
+    guessSyntax: true
+    # hl_Lines: ""
+    # hl_inline: false
+    # lineAnchors: ""
+    lineNoStart: 1
+    lineNos: true
+    lineNumbersInTable: true
+    noHl: false
+    style: nord
+    tabWidth: 2
 
 enableRobotsTXT: true
 buildDrafts: false
@@ -15,16 +29,16 @@ buildFuture: false
 buildExpired: false
 
 params:
-  # theme
+
   showToc: true
-  TocOpen: false
+  TocOpen: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
   defaultTheme: light # auto or dark
   ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
+  # ShowShareButtons: true
+  # ShowPostNavLinks: true
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   disableSpecial1stPost: false
@@ -34,9 +48,14 @@ params:
 
   # for enchanced SEO
   env: production
+
+  assets:
+    favicon: "/favicon.ico"
+    disableHLJS: true
+
   profileMode:
     enabled: true
-    title: "Hello! \U0001F44B"
+    title: "Hello!"
     subtitle: I'm Siddharth, an incoming [Master's in Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu/ ) student in Language Technology Institute at Carnegie Mellon University. <br> <br>  I recently graduated from VIT, Vellore with a Bachelor's in Computer Science and Engineering. I was a recepient of the [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295) and worked as a Research Intern at the Technical University of Munich under [Dr. Felix Dietrich](https://fd-research.com/), where I worked on [modelling Stochastic Differential Equations using Neural Networks](https://mediatum.ub.tum.de/1686889). I further continued my collaboration with Dr. Dietrich for my Bachelor's Thesis where we looked at [a better way to get Research Paper Reference Recommendations](https://mediatum.ub.tum.de/1713430). <br><br> I am passionate about Deep Learning, Multimodal Learning and Natural Language Processing and am actively looking for internship opportunities for Summer 2024.
     imageUrl: "siddharth_profile.png"
     imageWidth: 220

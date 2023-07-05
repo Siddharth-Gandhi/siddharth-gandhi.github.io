@@ -1,0 +1,12 @@
+.list{
+    background-color: #ECE8E1;
+}
+
+.list.dark{
+    background-color: #0F1923;
+}
+
+/* ::selection {
+    background: var(--primary);
+    color: var(--theme);
+} */
