@@ -1,5 +1,6 @@
 .light, .list{
-    background-color: #FBF0DA;
+    /* background-color: #FBF0DA; */
+    background-color: #ECE8E1;
 }
 
 .dark, .list.dark{

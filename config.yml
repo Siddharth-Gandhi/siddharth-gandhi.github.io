@@ -91,7 +91,7 @@ params:
   profileMode:
     enabled: true
     title: "Hello!"
-    subtitle: I'm Siddharth, an incoming Master's student at [Language Technology Institute](https://www.lti.cs.cmu.edu/), [School of Computer Science](https://www.cs.cmu.edu/), in [Carnegie Mellon University](https://www.cmu.edu/) studying [Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu/ ). I am passionate about building intelligent systems akin to JARVIS from Iron Man, which can enable seamless interactions through natural language. <br> <br>  I recently graduated from VIT, Vellore with a Bachelor's in Computer Science and Engineering. I was a recepient of the [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295) and worked as a Research Intern at the Technical University of Munich under [Dr. Felix Dietrich](https://fd-research.com/), where I worked on [modelling Stochastic Differential Equations using Neural Networks](https://mediatum.ub.tum.de/1686889). I further collaborated with Dr. Dietrich for my Bachelor's Thesis where we looked at [a better way to get Research Paper Reference Recommendations](https://mediatum.ub.tum.de/1713430). <br><br> I am actively looking for internship opportunities for Summer 2024 in Machine Learning, Deep Learning, or Natural Language Processing.
+    subtitle: I'm Siddharth, a Master's student at the [Language Technology Institute](https://www.lti.cs.cmu.edu/), in [Carnegie Mellon University's](https://www.cmu.edu/) [School of Computer Science](https://www.cs.cmu.edu/), studying [Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu/ ). I am passionate about building systems which can be used to augment general capabilities via seamless interactions through natural language. <br><br> My interests broadly span the intersection of deep learning (DL), information retrieval (IR) and natural language processing (NLP). Currently, I will be working with [Prof. Jamie Callan](http://www.cs.cmu.edu/~callan/) on a [neural IR](http://www.cs.cmu.edu/~callan/Projects/IIS-1815528/) project to find relevant code files to be updated in a large code base, given a new feature request/design document and using LLMs to make the required changes. <br> <br>  Previously, I graduated top of my class from VIT Vellore with a Bachelor's in Computer Science and Engineering. I was a recepient of the [DAAD WISE Scholarship](https://www2.daad.de/deutschland/stipendium/datenbank/en/21148-scholarship-database/?detail=50015295) and worked as a Research Intern at the Technical University of Munich under [Dr. Felix Dietrich](https://fd-research.com/), where I worked on [modelling Stochastic Differential Equations using Neural Networks](https://mediatum.ub.tum.de/1686889). I further collaborated with Dr. Dietrich for my Bachelor's Thesis where we looked at [improving literature recommendations with citation-informed reranking](https://mediatum.ub.tum.de/1713430). <br><br> I am actively looking for Summer 2024 internship opportunities in ML/DL, NLP or SDE roles. Please feel free to reach out to me via email or check out my [CV](Siddharth_Gandhi_Resume.pdf) for more details.
     imageUrl: "siddharth_profile.png"
     imageWidth: 220
     imageHeight: 220
@@ -105,7 +105,8 @@ params:
     - name: "github"
       url: "https://github.com/siddharth-Gandhi/"
     - name: "cv"
-      url: "https://drive.google.com/file/d/1FDnTG35ZDjhGLvoxMDmvrWz8JFzk0ddQ/view?usp=sharing"
+      # url: "https://drive.google.com/file/d/1FDnTG35ZDjhGLvoxMDmvrWz8JFzk0ddQ/view?usp=sharing"
+      url: "Siddharth_Gandhi_Resume.pdf"
 
   # homeInfoParams:
   #     Title: Hi there wave
