@@ -6,9 +6,9 @@ draft: false
 
 # Hi, please read this note
 
-I am [Siddharth](https://www.ssgandhi.com/), a first year MIIS student at Carnegie Mellon's Language Technologies Institute. I am working on neural information retrieval project which [Prof. Jamie Callan](http://www.cs.cmu.edu/~callan/) which involves collecting commit data along with pre and post commit file states. I will be querying Github's API for this data on various big repositories (like PyTorch & Tensorflow) and storing it locally. I will be optimizing it in some time to just clone the repository and build the dataset locally, but for proof of concept, I am doing with API (albeit at a small scale).
+I am [Siddharth](https://www.ssgandhi.com/), a first year MIIS student at Carnegie Mellon's Language Technologies Institute. I am working on neural information retrieval project with [Prof. Jamie Callan](http://www.cs.cmu.edu/~callan/) which involves collecting commit data along with pre and post commit file states. I will be querying Github's API for this data on various big repositories (like PyTorch & Tensorflow) and storing it locally. I will be optimizing it in some time to just clone the repository and build the dataset locally, but for proof of concept, I am doing with API (albeit at a small scale).
 
-The project description, if you are interested is as follows:
+The project description, if you are interested, is as follows:
 
 > Recent code language models have demonstrated strong capabilities in generating, completing, editing and debugging code. Given certain prompts, they are able to provide human-quality completions. A very capable code language model, however, only captures part of the entire programming workflow. In the case of improving a big code project, after designing some new features, the first thing the programmer would consider is to locate the existing code files to be edited. This is a retrieval problem and is non-trivial in large code bases.
 >
