@@ -49,7 +49,7 @@ params:
   DateFormat: "January 2, 2006"
   images: ["siddharth_profile.png"]
   showToc: true
-  TocOpen: true
+  TocOpen: false
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
