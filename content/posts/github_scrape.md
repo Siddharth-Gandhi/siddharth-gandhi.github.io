@@ -1,7 +1,7 @@
 ---
 title: "Github Scrape"
 date: 2023-09-18T20:03:59-04:00
-draft: true
+draft: false
 ---
 
 # Hi, please read this note
