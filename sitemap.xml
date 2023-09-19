@@ -2,11 +2,14 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.ssgandhi.com/posts/github_scrape/</loc>
+    <lastmod>2023-09-18T20:03:59-04:00</lastmod>
+  </url><url>
     <loc>https://www.ssgandhi.com/posts/</loc>
-    <lastmod>2023-07-04T23:51:39+05:30</lastmod>
+    <lastmod>2023-09-18T20:03:59-04:00</lastmod>
   </url><url>
     <loc>https://www.ssgandhi.com/</loc>
-    <lastmod>2023-07-04T23:51:39+05:30</lastmod>
+    <lastmod>2023-09-18T20:03:59-04:00</lastmod>
   </url><url>
     <loc>https://www.ssgandhi.com/posts/test/</loc>
     <lastmod>2023-07-04T23:51:39+05:30</lastmod>
