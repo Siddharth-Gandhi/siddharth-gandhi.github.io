@@ -1,10 +1,16 @@
-.light, .list{
+.light,
+.list {
     /* background-color: #FBF0DA; */
     background-color: #ECE8E1;
 }
 
-.dark, .list.dark{
+.dark,
+.list.dark {
     background-color: #0F1923;
+}
+
+body {
+    font-family: 'Lora', serif
 }
 
 /* ::selection {
