@@ -85,14 +85,14 @@ params:
   # label:
       # text: "Siddharth Gandhi"
       #icon: "img/Q.gif"
-      # icon: "https://www.ssgandhi.com/siddharth_profile.jpg"
+      # icon: "https://www.ssgandhi.com/siddharth_profile.png"
       # iconHeight: 35
 
   profileMode:
     enabled: true
     title: "Hello,"
-    subtitle: I'm Siddharth, a Master's student in CMU SCS, studying [Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu/ ). I am passionate about building systems which can be used to augment general capabilities via seamless interactions through natural language. <br><br> My interests broadly span the intersection of deep learning, information retrieval and natural language processing. I'm looking for full-time positions starting January 2025 in deep learning and SDE roles. Please feel free to reach out to me via email or [check out my CV](Siddharth_Gandhi_Resume.pdf) for more details.
-    imageUrl: "siddharth_profile.jpg"
+    subtitle: I'm Siddharth, a Master's student in CMU SCS, studying [Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu/ ). I am passionate about building systems which can be used to augment general capabilities via seamless interactions through natural language. <br><br> My interests broadly span the intersection of deep learning, information retrieval and natural language processing. I'm looking for full-time positions starting January 2025 in deep learning and SDE roles. <br><br>Please feel free to reach out to me via email or [check out my CV](Siddharth_Gandhi_Resume.pdf) for more details.
+    imageUrl: "siddharth_profile.png"
     imageWidth: 220
     imageHeight: 220
     imageTitle: "Siddharth Gandhi Profile Image"
