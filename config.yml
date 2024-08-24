@@ -53,7 +53,7 @@ params:
   ShowBreadCrumbs: true
   ShowCodeCopyButtons: true
   hideMeta: false
-  defaultTheme: light # auto or dark
+  defaultTheme: auto # auto or dark
   ShowReadingTime: true
   # ShowShareButtons: true
   # ShowPostNavLinks: true
@@ -85,14 +85,14 @@ params:
   # label:
       # text: "Siddharth Gandhi"
       #icon: "img/Q.gif"
-      # icon: "https://www.ssgandhi.com/siddharth_profile.png"
+      # icon: "https://www.ssgandhi.com/siddharth_profile.jpg"
       # iconHeight: 35
 
   profileMode:
     enabled: true
     title: "Hello!"
     subtitle: I'm Siddharth, a Master's student in Carnegie Mellon University, School of Computer Science, studying [Intelligent Information Systems (MIIS)](https://miis.cs.cmu.edu/ ). I am passionate about building systems which can be used to augment general capabilities via seamless interactions through natural language. <br><br> My interests broadly span the intersection of deep learning (DL), information retrieval (IR) and natural language processing (NLP). I'm looking for full-time positions starting January 2025 in deep learning and SDE roles. Please feel free to reach out to me via email or [check out my CV](Siddharth_Gandhi_Resume.pdf) for more details.
-    imageUrl: "siddharth_profile.png"
+    imageUrl: "siddharth_profile.jpg"
     imageWidth: 220
     imageHeight: 220
     imageTitle: "Siddharth Gandhi Profile Image"
